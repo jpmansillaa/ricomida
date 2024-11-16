@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    font-family: "Cabin", sans-serif;
+    font-weight: 400;
+}
+
+.bg-negrito{
+    background-color: #373A3C;
+}
+
+.navbar-brand{
+    font-family: "Lobster Two", sans-serif;
+}
+
+h2{
+    font-weight: 700;
+}
+
+p{
+    font-weight: 400;
+}
+
+hr{
+    height: 2px;
+    background-color: black;
+    border: 0;
+}
+
+.card-body .btn{
+    border-color: #DDDDDD;
+}
+
+.carousel-item img{
+    width: 25%;
+}
+
+#parrafos h2{
+    text-decoration: underline;
+    text-underline-offset: 10px;
+}
+
+.newsletter{
+    color: white;
+    background-color: #DC3545;
+}
+
+.newsletter span{
+    font-family: "Lobster Two", sans-serif;
+    font-size: 2rem;
+}
+
+.newsletter button{
+    background-color: transparent;
+    border-color: white;
+}
+
+footer h2{
+    color: #DDDDDD;
+    font-family: "Lobster Two", sans-serif;
+}
